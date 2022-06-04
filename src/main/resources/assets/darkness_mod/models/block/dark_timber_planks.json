@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "darkness_mod:block/dark_timber_planks"
+	}
+}

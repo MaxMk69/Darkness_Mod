@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "darkness_mod:block/dark_timber_pressure_plate"
+    },
+    "powered=true": {
+      "model": "darkness_mod:block/dark_timber_pressure_plate_down"
+    }
+  }
+}

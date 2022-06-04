@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "darkness_mod:eregie_ore"
+  },
+  "result": "darkness_mod:piece_of_eregie",
+  "experience": 0.7,
+  "cookingtime": 100
+}

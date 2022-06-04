@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "darkness_mod:block/b6m9_fruitbush_stage1"
+  }
+}

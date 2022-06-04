@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "darkness_mod:block/dark_timber_log_top",
+    "side": "darkness_mod:block/dark_timber_log"
+  }
+}

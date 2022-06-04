@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "darkness_mod:item/dark_timber_door"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "darkness_mod:block/dark_timber_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "darkness_mod:block/dark_timber_wood"
+    },
+    "axis=z": {
+      "model": "darkness_mod:block/dark_timber_wood",
+      "x": 90
+    }
+  }
+}

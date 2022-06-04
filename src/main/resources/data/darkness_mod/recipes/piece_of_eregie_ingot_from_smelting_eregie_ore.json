@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "darkness_mod:eregie_ore"
+  },
+  "result": "darkness_mod:piece_of_eregie",
+  "experience": 2,
+  "cookingtime": 400
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "darkness_mod:eregie_block"
+    }
+  ],
+  "result": {
+    "item": "darkness_mod:eregie_ingot",
+    "count": 9
+  }
+}

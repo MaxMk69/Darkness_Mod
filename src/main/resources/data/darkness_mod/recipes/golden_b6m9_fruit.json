@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "#X#",
+    "#Y#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "darkness_mod:b6m9_fruit"
+    },
+    "Y": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "darkness_mod:golden_b6m9_fruit"
+  }
+}

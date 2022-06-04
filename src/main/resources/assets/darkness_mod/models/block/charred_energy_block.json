@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "darkness_mod:block/charred_energy_block"
+	}
+}

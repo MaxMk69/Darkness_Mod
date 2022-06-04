@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "darkness_mod:piece_of_eregie"
+    },
+    {
+      "item": "darkness_mod:piece_of_eregie"
+    },
+    {
+      "item": "darkness_mod:piece_of_eregie"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "darkness_mod:eregie_ingot"
+  }
+}

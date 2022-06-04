@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "darkness_mod:dark_matter",
+    "darkness_mod:dark_stone",
+    "darkness_mod:dark_stone_bricks",
+    "darkness_mod:eregie_block",
+    "darkness_mod:eregie_ore",
+    "darkness_mod:evil_block",
+    "darkness_mod:charred_energy_block",
+    "darkness_mod:dark_timber_planks",
+    "darkness_mod:dark_timber_log",
+    "darkness_mod:stripped_dark_timber_log",
+    "darkness_mod:dark_timber_wood",
+    "darkness_mod:stripped_dark_timber_wood",
+    "darkness_mod:dark_timber_stairs",
+    "darkness_mod:dark_timber_slab",
+    "darkness_mod:dark_timber_fence",
+    "darkness_mod:dark_timber_fence_gate",
+    "darkness_mod:dark_timber_door",
+    "darkness_mod:dark_timber_trapdoor"
+  ]
+}

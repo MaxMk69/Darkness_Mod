@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "age=0": { "model": "darkness_mod:block/b6m9_fruitbush_stage0" },
+    "age=1": { "model": "darkness_mod:block/b6m9_fruitbush_stage1" },
+    "age=2": { "model": "darkness_mod:block/b6m9_fruitbush_stage2" },
+    "age=3": { "model": "darkness_mod:block/b6m9_fruitbush_stage3" },
+    "age=4": { "model": "darkness_mod:block/b6m9_fruitbush_stage4" },
+    "age=5": { "model": "darkness_mod:block/b6m9_fruitbush_stage5" },
+    "age=6": { "model": "darkness_mod:block/b6m9_fruitbush_stage6" }
+  }
+}

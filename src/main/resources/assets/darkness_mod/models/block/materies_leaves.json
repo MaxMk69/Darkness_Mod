@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "darkness_mod:block/materies_leaves"
+  }
+}

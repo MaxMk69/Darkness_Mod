@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "darkness_mod:block/dark_timber_trapdoor"
+  }
+}

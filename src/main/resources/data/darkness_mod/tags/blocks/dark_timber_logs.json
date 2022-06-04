@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "darkness_mod:dark_timber_log",
+    "darkness_mod:dark_timber_wood",
+    "darkness_mod:stripped_dark_timber_log",
+    "darkness_mod:stripped_dark_timber_wood"
+  ]
+}

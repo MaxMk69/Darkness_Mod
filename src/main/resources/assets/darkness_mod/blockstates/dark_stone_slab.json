@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "darkness_mod:block/dark_stone_slab"
+    },
+    "type=double": {
+      "model": "darkness_mod:block/dark_stone_bricks"
+    },
+    "type=top": {
+      "model": "darkness_mod:block/dark_stone_slab_top"
+    }
+  }
+}

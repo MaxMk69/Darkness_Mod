@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "darkness_mod:block/stripped_dark_timber_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "darkness_mod:block/stripped_dark_timber_log"
+    },
+    "axis=z": {
+      "model": "darkness_mod:block/stripped_dark_timber_log_horizontal",
+      "x": 90
+    }
+  }
+}

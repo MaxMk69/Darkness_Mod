@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_rh",
+  "textures": {
+    "top": "darkness_mod:block/dark_timber_door_top",
+    "bottom": "darkness_mod:block/dark_timber_door_bottom"
+  }
+}

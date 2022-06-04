@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "darkness_mod:dark_timber_planks",
+    "darkness_mod:dark_timber_stairs",
+    "darkness_mod:dark_timber_slab",
+    "darkness_mod:dark_timber_fence",
+    "darkness_mod:dark_timber_fence_gate",
+    "darkness_mod:dark_timber_door",
+    "darkness_mod:dark_timber_trapdoor",
+    "darkness_mod:dark_timber_log",
+    "darkness_mod:stripped_dark_timber_log",
+    "darkness_mod:dark_timber_wood",
+    "darkness_mod:stripped_dark_timber_wood"
+  ]
+}

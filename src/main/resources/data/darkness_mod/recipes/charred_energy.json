@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal"
+    },
+    "X": {
+      "item": "darkness_mod:evil"
+    }
+  },
+  "result": {
+    "item": "darkness_mod:charred_energy"
+  }
+}
